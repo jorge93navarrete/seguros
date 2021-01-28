@@ -9,7 +9,7 @@
   "author": "jorge1793.navarrete@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.4"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
